@@ -1,5 +1,6 @@
 
 
+void sub(){
+	printf("Hello!  Nagai Shigeo!!!\n");
+}
 
-
-		Hello!  Nagai Shigeo!!!
